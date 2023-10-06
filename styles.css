@@ -1,0 +1,67 @@
+.flex-container {
+    display: flex;
+    background-color: #ccc;
+}
+.flex-container div.col-md{
+    font-size: 30px;
+    margin: 10px;
+    padding: 10px;
+    background-color: honeydew;
+    flex-direction: center;
+}
+
+.item {
+    width: 300px;
+}
+.heading{
+    font-size: 20px;
+    color: black;
+}
+.para{
+    font-size: 20px;
+    color: black;
+}
+a:link {
+    text-decoration: none;
+}
+.google {
+    font-weight: 200;
+    font-size: x-large;
+    padding: 20px;
+    border-color: black;
+}
+.googlephoto {
+    height: 500px;
+    width: 1000px;
+} 
+.bootcamp {
+    font-weight: bold;
+    font-size: larger;
+}
+.bootcamp1 {
+    background-color: chocolate;
+    font-style: oblique;
+}
+.readmore{
+    font-size: large;
+    color: primary;
+}
+
+div .items{
+    display: flex;
+}
+
+.container1{
+    display: flex;
+    background-color: black;
+    text-shadow: 0cm;
+    color: #ccc;
+    text-align: center;
+    padding-top: 0in;
+    padding-left: 500px;
+}
+
+.items button{
+    margin-left: 800px;
+    padding: 8px;
+}
